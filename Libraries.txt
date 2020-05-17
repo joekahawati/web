@@ -1,0 +1,3 @@
+npm install react-promise-tracker --save
+npm install react-loader-spinner --save
+npm install jquery
